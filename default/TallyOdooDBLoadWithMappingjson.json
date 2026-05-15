@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1778840709998,
+    "description" : "",
+    "identifier" : "TallyOdooDBLoadWithMappingjson",
+    "lastModifiedTimestamp" : 1778840709998,
+    "name" : "Tally_Odoo_DB_Load_With_Mapping.json",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
