@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1780461220816,
+    "description" : "",
+    "identifier" : "CustomDataOdooMigration",
+    "lastModifiedTimestamp" : 1780461220816,
+    "name" : "CustomData_Odoo_Migration",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
