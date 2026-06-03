@@ -716,7 +716,7 @@
         "Database Driver Class Name" : "org.postgresql.Driver",
         "Minimum Idle Connections" : "20",
         "Max Total Connections" : "30",
-        "Database Connection URL" : "jdbc:postgresql://172.31.37.131:5432/odoo_v74",
+        "Database Connection URL" : "jdbc:postgresql://172.31.37.131:5432/odoo_v75",
         "Password Source" : "PASSWORD",
         "Time Between Eviction Runs" : "5 mins",
         "Database User" : "odoo",
@@ -5775,8 +5775,8 @@
         "name" : "ExecuteStreamCommand",
         "penaltyDuration" : "30 sec",
         "position" : {
-          "x" : -1120.0,
-          "y" : 64.0
+          "x" : -1368.0,
+          "y" : 16.0
         },
         "properties" : {
           "Max Attribute Length" : "256",
@@ -5879,8 +5879,8 @@
         "name" : "GetFile",
         "penaltyDuration" : "30 sec",
         "position" : {
-          "x" : -1128.0,
-          "y" : -200.0
+          "x" : -1376.0,
+          "y" : -256.0
         },
         "properties" : {
           "Keep Source File" : "true",
@@ -15560,6 +15560,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "CustomDataOdooMigration",
-    "timestamp" : 1780461221918
+    "timestamp" : 1780470422748
   }
 }
