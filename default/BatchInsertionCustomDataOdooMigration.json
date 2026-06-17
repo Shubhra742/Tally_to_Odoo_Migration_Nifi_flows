@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1781688669117,
+    "description" : "",
+    "identifier" : "BatchInsertionCustomDataOdooMigration",
+    "lastModifiedTimestamp" : 1781688669117,
+    "name" : "Batch_Insertion_CustomData_Odoo_Migration",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
